@@ -49,7 +49,7 @@ ol {
 
 /* common stylesheets */
 body {
-  background: #4d4646;
+  background: black;
   color: white;
 }
 main {
@@ -61,6 +61,13 @@ header > h1 {
   font-size: 2rem;
   font-weight: 600;
   padding: 1.2rem 0;
+}
+
+/* mainBox */
+.mainTitle{
+  margin-bottom:50px;
+  margin-top:30px;
+  font-size:45px;
 }
 
 /* left panel */
